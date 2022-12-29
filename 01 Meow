@@ -1,0 +1,5 @@
+**KEY TAKEAWAY**
+DO NOT USE TELNET/ DISABLE PORT 23 WHEN ABLE
+
+Telnet transfers data in plaintext and is extremely simple to get information from.
+FLAG: b40abdfe23665f766f9c61ecba8a4c19 
